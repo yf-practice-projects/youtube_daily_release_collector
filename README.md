@@ -1,0 +1,2 @@
+# youtube_daily_release_collector
+毎日のYoutube音楽動画をスプレッドシートにまとめる処理
