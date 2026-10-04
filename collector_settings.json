@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "minDurationSeconds": 180,
+  "configs": [
+    {
+      "spreadsheetId": "自分のSpreadsheetID",
+      "queries": ["J-POP", "JPOP", "Official Music Video", "Music Video", "MV"]
+    },
+    {
+      "spreadsheetId": "自分のSpreadsheetID",
+      "queries": ["ボカロ", "VOCALOID", "初音ミク", "鏡音リン", "鏡音レン", "巡音ルカ", "可不", "重音テト"]
+    }
+  ]
+}
